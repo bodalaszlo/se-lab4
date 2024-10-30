@@ -1,0 +1,2 @@
+FAIL  # <- GT4500
+FAIL  # <- TORPEDO
